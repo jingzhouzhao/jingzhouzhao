@@ -27,6 +27,8 @@ Here are some ideas to get you started:
     <img src="https://activity-graph.herokuapp.com/graph?username=jingzhouzhao&theme=minimal" />
 </div>
 
+<div align="center"><img src="https://raw.githubusercontent.com/jingzhouzhao/jingzhouzhao/main/assets/github-contribution-grid-snake.svg" ></div>
+
 ## 📺Social
 
 <table>
