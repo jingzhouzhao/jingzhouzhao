@@ -15,7 +15,7 @@
 
 <div align="center">
 <span>&emsp;&emsp;</span>
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=jingzhouzhao&layout=compact&theme=algolia" /><span>&emsp;</span><img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jingzhouzhao&layout=compact&langs_count=8&theme=algolia" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=jingzhouzhao&layout=default&theme=algolia&count_private=true&show_icons=true&bg_color=30,e96443,904e95" /><span>&emsp;</span><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jingzhouzhao&layout=default&langs_count=8&theme=algolia&count_private=true&show_icons=true)" />
 <span>&emsp;&emsp;</span>
 </div>
 <div align="center">
