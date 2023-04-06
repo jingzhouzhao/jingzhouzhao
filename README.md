@@ -3,7 +3,7 @@
 <!--
 **jingzhouzhao/jingzhouzhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&width=700&lines=Nothing+you+beat+you+at+once%2C+like+nothing+can+save+you.)](https://git.io/typing-svg)<!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&width=700&lines=No+pain+no+gain.)](https://git.io/typing-svg)<!--
 ![jingzhouzhao](https://komarev.com/ghpvc/?username=jingzhouzhao)
 ![jingzhouzhao](https://visitor-badge.glitch.me/badge?page_id=jingzhouzhao.profile)
 -->
